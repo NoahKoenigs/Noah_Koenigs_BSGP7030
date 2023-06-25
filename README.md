@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](](https://mybinder.org/v2/gh/NoahKoenigs/data_science_bootcamp_importtest/r40_py311))
+[![Binder]https://mybinder.org/v2/gh/NoahKoenigs/data_science_bootcamp_importtest/tree/r40_py311/r40_py311
 
 A Binder-compatible repo with an `environment.yml` file.
 
