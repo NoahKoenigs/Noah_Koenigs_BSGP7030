@@ -1,13 +1,13 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FNoahKoenigs%2FNoah_Koenigs_BSGP7030%2Ftree%2Fr40_py311/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)]((https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/tree/r40_py311/HEAD))
 
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FNoahKoenigs%2FNoah_Koenigs_BSGP7030%2Ftree%2Fr40_py311/HEAD
+https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/tree/r40_py311/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
