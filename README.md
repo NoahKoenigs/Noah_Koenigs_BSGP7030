@@ -7,7 +7,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/tree/r40_py311/HEAD
+https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/r40_py311/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
