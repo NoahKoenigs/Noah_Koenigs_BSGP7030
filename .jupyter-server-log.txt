@@ -170,3 +170,7 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-07-06 16:02:33.785 ServerApp] Creating new file in 
 [W 2023-07-06 16:02:41.554 ServerApp] delete /untitled.txt
 [I 2023-07-06 16:03:08.840 ServerApp] Creating new file in 
+[W 2023-07-06 16:05:09.443 ServerApp] 404 GET /binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-azjkw0ge/api/contents/gitignore?content=0&1688659508526 (140.254.70.225): file or directory does not exist: 'gitignore'
+[W 2023-07-06 16:05:09.444 ServerApp] wrote error: "file or directory does not exist: 'gitignore'"
+[W 2023-07-06 16:05:09.445 ServerApp] 404 GET /binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-azjkw0ge/api/contents/gitignore?content=0&1688659508526 (140.254.70.225) 3.29ms referer=https://notebooks.gesis.org/binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-azjkw0ge/lab/workspaces/auto-g
+[I 2023-07-06 16:05:09.600 ServerApp] Uploading file to /gitignore
