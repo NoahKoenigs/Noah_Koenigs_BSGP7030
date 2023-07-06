@@ -167,3 +167,6 @@ Please note that updating to Notebook 7 might break some of your extensions.
   return _iterencode(o, 0)
 [W 2023-07-06 15:57:17.508 ServerApp] Could not destroy zmq context for <jupyter_client.asynchronous.client.AsyncKernelClient object at 0x7f3c14758110>
 [I 2023-07-06 15:57:34.104 ServerApp] New terminal with automatic name: 1
+[I 2023-07-06 16:02:33.785 ServerApp] Creating new file in 
+[W 2023-07-06 16:02:41.554 ServerApp] delete /untitled.txt
+[I 2023-07-06 16:03:08.840 ServerApp] Creating new file in 
