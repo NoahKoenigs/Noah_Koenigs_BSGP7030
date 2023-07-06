@@ -66,3 +66,5 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [W 2023-07-06 16:49:32.893 ServerApp] wrote error: "file or directory does not exist: 'gitignore'"
 [W 2023-07-06 16:49:32.894 ServerApp] 404 GET /binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-jj6gu0h9/api/contents/gitignore?content=0&1688662171947 (140.254.70.225) 4.27ms referer=https://notebooks.gesis.org/binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-jj6gu0h9/lab
 [I 2023-07-06 16:49:33.059 ServerApp] Uploading file to /gitignore
+[W 2023-07-06 16:55:38.008 ServerApp] delete /bash_hello world.ipynb
+[W 2023-07-06 17:00:11.150 ServerApp] delete /Python hello world.ipynb
