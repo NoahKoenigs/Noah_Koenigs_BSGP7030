@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/tree/py_linear_regression/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/py_linear_regression)
 
 
 A Binder-compatible repo with an `environment.yml` file.
