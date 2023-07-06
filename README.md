@@ -9,9 +9,7 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 
 https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/r40_py311
-=======
-http://mybinder.org/v2/gh/binder-examples/conda_environment?filepath=index.ipynb
->>>>>>> e0d6a0304bc7b56246e671b18f3219b094720adb
+
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
