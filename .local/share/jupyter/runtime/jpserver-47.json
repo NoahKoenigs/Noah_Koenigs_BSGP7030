@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-puljgley/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 47,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "Cy3I1K7PT6mI-5znYIghaQ",
+  "url": "http://jupyter-noahkoenigs-2dnoa-2doenigs-5fbsgp7030-2dpuljgley:8888/binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-puljgley/",
+  "version": "1.23.6"
+}

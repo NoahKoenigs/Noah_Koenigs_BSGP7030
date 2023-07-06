@@ -1,8 +1,3 @@
-.bash_logout
- .bashrc
-.cache/
-.conda/
-.jupyter-server-log.txt
-.jupyter/
-.local/
-.profile
+'bash_hello world.ipynb'   LICENSE                               README.md
+ environment.yml          'Python hello world.ipynb'
+ index.ipynb            
