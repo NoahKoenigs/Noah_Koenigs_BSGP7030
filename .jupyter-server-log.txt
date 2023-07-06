@@ -174,3 +174,7 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [W 2023-07-06 16:05:09.444 ServerApp] wrote error: "file or directory does not exist: 'gitignore'"
 [W 2023-07-06 16:05:09.445 ServerApp] 404 GET /binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-azjkw0ge/api/contents/gitignore?content=0&1688659508526 (140.254.70.225) 3.29ms referer=https://notebooks.gesis.org/binder/jupyter/user/noahkoenigs-noa-oenigs_bsgp7030-azjkw0ge/lab/workspaces/auto-g
 [I 2023-07-06 16:05:09.600 ServerApp] Uploading file to /gitignore
+[W 2023-07-06 16:08:13.960 ServerApp] Culling 'idle' kernel 'python3' (b614263e-bcf0-4237-9fbc-838440cb2808) with 1 connections due to 656 seconds of inactivity.
+[I 2023-07-06 16:08:13.962 ServerApp] Kernel shutdown: b614263e-bcf0-4237-9fbc-838440cb2808
+[W 2023-07-06 16:08:14.279 ServerApp] Culling 'idle' kernel 'python3' (9d6127dd-bc69-4a10-a966-6e3e0e0e6acd) with 1 connections due to 655 seconds of inactivity.
+[I 2023-07-06 16:08:14.279 ServerApp] Kernel shutdown: 9d6127dd-bc69-4a10-a966-6e3e0e0e6acd
