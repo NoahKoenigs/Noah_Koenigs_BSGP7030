@@ -1,10 +1,8 @@
 # Conda environment with environment.yml
 
-<<<<<<< HEAD
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/r40_py311)
-=======
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NoahKoenigs/Noah_Koenigs_BSGP7030/HEAD)
->>>>>>> 091b510f15bfa13f1980c1e60b2849dd4f8dc7b1
+
 
 
 A Binder-compatible repo with an `environment.yml` file.
