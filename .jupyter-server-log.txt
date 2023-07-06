@@ -68,3 +68,4 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-07-06 16:49:33.059 ServerApp] Uploading file to /gitignore
 [W 2023-07-06 16:55:38.008 ServerApp] delete /bash_hello world.ipynb
 [W 2023-07-06 17:00:11.150 ServerApp] delete /Python hello world.ipynb
+[W 2023-07-06 17:01:13.637 ServerApp] delete /python_linear_regression.ipynb
