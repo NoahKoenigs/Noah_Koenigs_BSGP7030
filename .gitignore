@@ -3,3 +3,5 @@ bash_hello world.ipynb
 .bashrc
 index.ipynb
 Python hello world.ipynb
+.ipynb_checkpoints
+repodata.json
